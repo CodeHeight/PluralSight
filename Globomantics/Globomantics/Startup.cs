@@ -8,16 +8,25 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using WebApp.Services;
+using Microsoft.Extensions.Configuration;
 
 namespace Globomantics
 {
     public class Startup
     {
+        private readonly IConfiguration configuration;
+
+        public Startup(IConfiguration configuration)
+        {
+            this.configuration = configuration;
+        }
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc();
             services.AddSingleton<IConferenceService, ConferenceMemoryService>();
             services.AddSingleton<IProposalService, ProposalMemoryService>();
+
+            services.Configure<GlobomanticsOptions>(configuration.GetSection("Globomantics"));
         }
 
         public void Configure(IApplicationBuilder app, IHostingEnvironment env,

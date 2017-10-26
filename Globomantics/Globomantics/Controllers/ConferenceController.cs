@@ -29,6 +29,7 @@ namespace Globomantics.Controllers
             return View(new ConferenceModel());
         }
 
+        [HttpPost]
         public async Task<IActionResult> Add(ConferenceModel model)
         {
             if (ModelState.IsValid)

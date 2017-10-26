@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.27004.2005
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Globomantics", "Globomantics\Globomantics.csproj", "{744D580F-BE6B-4760-A009-E00F50998F4C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "Shared\Shared.csproj", "{C21ACEA7-0464-4D0C-BEF6-FB939796E2E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shared", "Shared\Shared.csproj", "{C21ACEA7-0464-4D0C-BEF6-FB939796E2E8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

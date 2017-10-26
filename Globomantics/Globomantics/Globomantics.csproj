@@ -5,14 +5,12 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="wwwroot\fonts\**" />
-    <Content Remove="wwwroot\fonts\**" />
-    <EmbeddedResource Remove="wwwroot\fonts\**" />
-    <None Remove="wwwroot\fonts\**" />
+    <Folder Include="wwwroot\img\" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="wwwroot\img\" />
+    <None Include="wwwroot\fonts\glyphicons-halflings-regular.svg" />
+    <None Include="wwwroot\fonts\glyphicons-halflings-regular.woff2" />
   </ItemGroup>
 
   <ItemGroup>

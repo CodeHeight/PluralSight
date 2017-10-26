@@ -6,3 +6,4 @@ C:\PluralSight\Globomantics\Shared\obj\Debug\netstandard2.0\Shared.AssemblyInfoI
 C:\PluralSight\Globomantics\Shared\obj\Debug\netstandard2.0\Shared.AssemblyInfo.cs
 C:\PluralSight\Globomantics\Shared\obj\Debug\netstandard2.0\Shared.dll
 C:\PluralSight\Globomantics\Shared\obj\Debug\netstandard2.0\Shared.pdb
+C:\PluralSight\Globomantics\Shared\obj\Debug\netstandard2.0\Shared.csprojResolveAssemblyReference.cache

@@ -37,7 +37,7 @@ namespace WebApp.Services
 
         public Task<IEnumerable<ProposalModel>> GetAll(int conferenceId)
         {
-            return Task.Run(() => proposals.AsEnumerable());
+            return Task.Run(() => proposals.Where(p => p.ConferenceId == conferenceId));
         }
 
         public Task Add(ProposalModel model)

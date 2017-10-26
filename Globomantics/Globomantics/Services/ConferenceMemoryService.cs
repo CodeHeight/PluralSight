@@ -13,12 +13,13 @@ namespace WebApp.Services
         public ConferenceMemoryService()
         {
             conferences.Add(new ConferenceModel { Id = 1, Name = "NDC", Location = "Oslo", Start = DateTime.Now, AttendeeTotal = 3 });
-            conferences.Add(new ConferenceModel { Id = 1, Name = "IT/DevConnections", Location = "Montgomery", Start = DateTime.Now, AttendeeTotal = 23 });
+            conferences.Add(new ConferenceModel { Id = 2, Name = "IT/DevConnections", Location = "Montgomery", Start = DateTime.Now, AttendeeTotal = 23 });
         }
 
         public Task Add(ConferenceModel model)
         {
             model.Id = conferences.Max(c => c.Id) + 1;
+            conferences.Add(model);
             return Task.CompletedTask;
         }
 
