@@ -1,0 +1,13 @@
+C:\PluralSight\Globomantics2\API\bin\Debug\netcoreapp2.0\API.deps.json
+C:\PluralSight\Globomantics2\API\bin\Debug\netcoreapp2.0\API.runtimeconfig.json
+C:\PluralSight\Globomantics2\API\bin\Debug\netcoreapp2.0\API.runtimeconfig.dev.json
+C:\PluralSight\Globomantics2\API\bin\Debug\netcoreapp2.0\API.dll
+C:\PluralSight\Globomantics2\API\bin\Debug\netcoreapp2.0\API.pdb
+C:\PluralSight\Globomantics2\API\bin\Debug\netcoreapp2.0\Shared.dll
+C:\PluralSight\Globomantics2\API\bin\Debug\netcoreapp2.0\Shared.pdb
+C:\PluralSight\Globomantics2\API\obj\Debug\netcoreapp2.0\API.csprojResolveAssemblyReference.cache
+C:\PluralSight\Globomantics2\API\obj\Debug\netcoreapp2.0\API.csproj.CoreCompileInputs.cache
+C:\PluralSight\Globomantics2\API\obj\Debug\netcoreapp2.0\API.AssemblyInfoInputs.cache
+C:\PluralSight\Globomantics2\API\obj\Debug\netcoreapp2.0\API.AssemblyInfo.cs
+C:\PluralSight\Globomantics2\API\obj\Debug\netcoreapp2.0\API.dll
+C:\PluralSight\Globomantics2\API\obj\Debug\netcoreapp2.0\API.pdb

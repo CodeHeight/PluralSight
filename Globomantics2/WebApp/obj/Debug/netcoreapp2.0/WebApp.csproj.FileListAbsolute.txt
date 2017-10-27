@@ -1,0 +1,13 @@
+C:\PluralSight\Globomantics2\WebApp\bin\Debug\netcoreapp2.0\WebApp.deps.json
+C:\PluralSight\Globomantics2\WebApp\bin\Debug\netcoreapp2.0\WebApp.runtimeconfig.json
+C:\PluralSight\Globomantics2\WebApp\bin\Debug\netcoreapp2.0\WebApp.runtimeconfig.dev.json
+C:\PluralSight\Globomantics2\WebApp\bin\Debug\netcoreapp2.0\WebApp.dll
+C:\PluralSight\Globomantics2\WebApp\bin\Debug\netcoreapp2.0\WebApp.pdb
+C:\PluralSight\Globomantics2\WebApp\bin\Debug\netcoreapp2.0\Shared.dll
+C:\PluralSight\Globomantics2\WebApp\bin\Debug\netcoreapp2.0\Shared.pdb
+C:\PluralSight\Globomantics2\WebApp\obj\Debug\netcoreapp2.0\WebApp.csprojResolveAssemblyReference.cache
+C:\PluralSight\Globomantics2\WebApp\obj\Debug\netcoreapp2.0\WebApp.csproj.CoreCompileInputs.cache
+C:\PluralSight\Globomantics2\WebApp\obj\Debug\netcoreapp2.0\WebApp.AssemblyInfoInputs.cache
+C:\PluralSight\Globomantics2\WebApp\obj\Debug\netcoreapp2.0\WebApp.AssemblyInfo.cs
+C:\PluralSight\Globomantics2\WebApp\obj\Debug\netcoreapp2.0\WebApp.dll
+C:\PluralSight\Globomantics2\WebApp\obj\Debug\netcoreapp2.0\WebApp.pdb
